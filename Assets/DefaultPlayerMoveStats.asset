@@ -16,7 +16,7 @@ MonoBehaviour:
   Acceleration: 5
   Deceleration: 60
   JumpForce: 12
-  GroundCheckRadius: 1
+  GroundCheckRadius: 0.5
   GroundLayer:
     serializedVersion: 2
     m_Bits: 8
